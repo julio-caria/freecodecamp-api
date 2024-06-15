@@ -7,11 +7,12 @@
 	"author": "Jottace",
 	"description": "FreeCodeCamp - Backend API course",
 	"keywords": ["student", "freecodecamp", "backend", "api"],
+	"license": "MIT",	
 	"scripts": {
 		"start": "node server.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/julio-caria/freecodecamp-api"
 	}
 }
