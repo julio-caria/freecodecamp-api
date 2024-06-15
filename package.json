@@ -6,6 +6,7 @@
 	"main": "server.js",
 	"author": "Jottace",
 	"description": "FreeCodeCamp - Backend API course",
+	"keywords": ["student", "freecodecamp", "backend", "api"],
 	"scripts": {
 		"start": "node server.js"
 	},
