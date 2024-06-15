@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"author": "Jottace",
+	"description": "FreeCodeCamp - Backend API course",
 	"scripts": {
 		"start": "node server.js"
 	},
