@@ -1,13 +1,15 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "^1.2.13"
 	},
 	"main": "server.js",
 	"author": "Jottace",
 	"description": "FreeCodeCamp - Backend API course",
 	"keywords": ["student", "freecodecamp", "backend", "api"],
 	"license": "MIT",	
+	"version": "1.0.0",
 	"scripts": {
 		"start": "node server.js"
 	},
